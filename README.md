@@ -31,7 +31,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 
 ## Projects Built using Dapp tools
 - [Multicolateral DAI](https://github.com/makerdao/dss) from MakerDAO
-- [Nova](https://github.com/Rari-Capital/nova) from Rari Capital
+- [Vaults](https://github.com/Rari-Capital/vaults) from Rari Capital
 - [Fuse Simulations](https://github.com/Rari-Capital/fuse-simulations) from Rari Capital
 - [Lootloose](https://github.com/gakonst/lootloose) from [Georgios Konstantopoulos](https://twitter.com/gakonst) and [Anish Agnihotri](https://twitter.com/_anishagnihotri)
 
