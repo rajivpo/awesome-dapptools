@@ -35,6 +35,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [GEB](https://github.com/reflexer-labs/geb)
 - [Drai](https://github.com/mds1/drai)
 - [Rari Vaults](https://github.com/Rari-Capital/vaults)
+- [Fractional Contracts](https://github.com/fractional-company/contracts)
 - [MakerDAO Spells](https://github.com/makerdao/spells-mainnet)
 - [Pickle Protocol](https://github.com/pickle-finance/protocol)
 - [Fuse Simulations](https://github.com/Rari-Capital/fuse-simulations)
