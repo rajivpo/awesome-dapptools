@@ -14,20 +14,18 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [Building a simple ERC20](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD)
 - [Introduction to Seth](https://docs.makerdao.com/clis/seth)
 - [Symbolic execution with DSTest](https://fv.ethereum.org/2020/12/11/symbolic-execution-with-ds-test/)
-
-## Utilities
-- [DappTools Template](https://github.com/gakonst/dapptools-template)
-- [solmate](https://github.com/Rari-Capital/solmate)
-- [dappsys](https://github.com/dapphub/dappsys)
-- [duppgrade](https://github.com/Rari-Capital/duppgrade)
-- [HEVMHelpers](https://github.com/brockelmore/HEVMHelpers)
+- [HEVM and Seth cheatsheet](https://kndrck.co/posts/hevm_seth_cheatsheet/)
 
 ## Talks
 - [Smart Contract Development with dapp.tools](https://www.youtube.com/watch?v=lPinWgaNceM)
 - [DappHub](https://www.youtube.com/watch?v=rKQCvUp5q1w)
 
-## Articles/Tweetstorms
-- [HEVM and Seth cheatsheet](https://kndrck.co/posts/hevm_seth_cheatsheet/)
+## Utilities
+- [DappTools Template](https://github.com/gakonst/dapptools-template)
+- [duppgrade](https://github.com/Rari-Capital/duppgrade)
+- [solmate](https://github.com/Rari-Capital/solmate)
+- [dappsys](https://github.com/dapphub/dappsys)
+- [HEVMHelpers](https://github.com/brockelmore/HEVMHelpers)
 
 ## Projects Using Dapp
 - [Multi Collateral DAI](https://github.com/makerdao/dss)
