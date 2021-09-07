@@ -3,7 +3,7 @@
 This is non-exhaustive! Please feel free to submit a PR with additional resources.
 
 ## Official Repos and Docs
-- [Official README (includes installation)](https://github.com/dapphub/dapptools)
+- [DappTools](https://github.com/dapphub/dapptools)
 - [dapp](https://github.com/dapphub/dapptools/tree/master/src/dapp)
 - [seth](https://github.com/dapphub/dapptools/tree/master/src/seth)
 - [hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm)
