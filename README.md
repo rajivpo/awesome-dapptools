@@ -53,7 +53,6 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [MCD Setzer](https://github.com/makerdao/setzer-mcd)
 - [MCD CLI](https://github.com/makerdao/mcd-cli)
 - [MCD Testchain](https://github.com/makerdao/testchain)
-- 
 
 ## Other
 - [Official Chatroom](https://dapphub.chat/)
