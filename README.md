@@ -46,6 +46,8 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [Tinlake Tests](https://github.com/dapp-org/tinlake-tests)
 - [Radicle Tests](https://github.com/dapp-org/radicle-contracts-tests)
 - [MCD Ilk Registry](https://github.com/makerdao/ilk-registry)
+- [StringUtils](https://github.com/Arachnid/solidity-stringutils/blob/master/src/strings.sol)
+- [DSS Deploy](https://github.com/makerdao/dss-deploy)
 
 ## Projects Using Seth
 
