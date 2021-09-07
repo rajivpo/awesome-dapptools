@@ -16,12 +16,11 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [Symbolic execution with DSTest](https://fv.ethereum.org/2020/12/11/symbolic-execution-with-ds-test/) by David Terry
 
 ## Utilities
-- [DappTools template](https://github.com/gakonst/dapptools-template) from [Georgios Konstantopoulos](https://twitter.com/gakonst)
+- [DappTools Template](https://github.com/gakonst/dapptools-template) from [Georgios Konstantopoulos](https://twitter.com/gakonst)
 - [solmate](https://github.com/Rari-Capital/solmate) (`DSTestPlus` is a very solid wrapper around the standard testing library)
 - [Dappsys](https://github.com/dapphub/dappsys)
 - [duppgrade](https://github.com/Rari-Capital/duppgrade) from [t11s](https://twitter.com/transmissions11)
 - [HEVMHelpers](https://github.com/brockelmore/HEVMHelpers) from [brock](https://twitter.com/brockjelmore)
-- 
 
 ## Talks
 - [Smart Contract Development with dapp.tools](https://www.youtube.com/watch?v=lPinWgaNceM) from Manuel Polzhofer
@@ -30,7 +29,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 ## Articles/Tweetstorms
 - [HEVM and Seth cheatsheet](https://kndrck.co/posts/hevm_seth_cheatsheet/) from Kendrick Tan
 
-## Projects Using DappTools
+## Projects Using Dapp
 - [Multi Collateral DAI](https://github.com/makerdao/dss) from MakerDAO
 - [Single Collateral DAI](https://github.com/makerdao/sai) from MakerDAO
 - [Tinlake](https://github.com/centrifuge/tinlake) from Centrifuge
@@ -40,6 +39,9 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [Vaults](https://github.com/Rari-Capital/vaults) from Rari Capital
 - [Fuse Simulations](https://github.com/Rari-Capital/fuse-simulations) from Rari Capital
 - [Lootloose](https://github.com/gakonst/lootloose) from [Georgios Konstantopoulos](https://twitter.com/gakonst) and [Anish Agnihotri](https://twitter.com/_anishagnihotri)
+- [Dappsys V2](https://github.com/dapp-org/dappsys-v2) from DappHub
+- [Tinlake Tests](https://github.com/dapp-org/tinlake-tests) from DappHub
+- [Radicle Tests](https://github.com/dapp-org/radicle-contracts-tests) from DappHub
 
 ## Other
 - [Chat with the team and other enthusiasts](https://dapphub.chat/)
