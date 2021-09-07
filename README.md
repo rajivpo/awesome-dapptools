@@ -41,6 +41,8 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [Dappsys V2](https://github.com/dapp-org/dappsys-v2)
 - [Tinlake Tests](https://github.com/dapp-org/tinlake-tests)
 - [Radicle Tests](https://github.com/dapp-org/radicle-contracts-tests)
+- [Optimism Tests](https://github.com/dapp-org/optimism-tests)
+- [Mooniswap Tests](https://github.com/dapp-org/mooniswap-tests)
 - [StringUtils](https://github.com/Arachnid/solidity-stringutils/blob/master/src/strings.sol)
 - [DSS Charter](https://github.com/makerdao/dss-charter)
 - [DSS Vest](https://github.com/makerdao/dss-vest)
