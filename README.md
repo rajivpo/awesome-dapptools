@@ -41,7 +41,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [Vaults](https://github.com/Rari-Capital/vaults)
 - [DSS Exigency](https://github.com/makerdao/dss-exigency)
 - [MakerDAO Spells](https://github.com/makerdao/spells-mainnet)
-- [DSS Exec-Lib[(https://github.com/makerdao/dss-exec-lib)
+- [DSS Exec-Lib](https://github.com/makerdao/dss-exec-lib)
 - [Pickle Protocol](https://github.com/pickle-finance/protocol)
 - [Fuse Simulations](https://github.com/Rari-Capital/fuse-simulations)
 - [Dappsys V2](https://github.com/dapp-org/dappsys-v2)
