@@ -38,7 +38,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [Lootloose](https://github.com/gakonst/lootloose)
 - [GEB](https://github.com/reflexer-labs/geb)
 - [Drai](https://github.com/mds1/drai)
-- [Vaults](https://github.com/Rari-Capital/vaults)
+- [Rari Vaults](https://github.com/Rari-Capital/vaults)
 - [DSS Exigency](https://github.com/makerdao/dss-exigency)
 - [MakerDAO Spells](https://github.com/makerdao/spells-mainnet)
 - [DSS Exec-Lib](https://github.com/makerdao/dss-exec-lib)
