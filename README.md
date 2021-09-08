@@ -23,10 +23,8 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 
 ## Utilities
 - [DappTools Template](https://github.com/gakonst/dapptools-template)
-- [duppgrade](https://github.com/Rari-Capital/duppgrade)
-- [solmate](https://github.com/Rari-Capital/solmate)
-- [dappsys](https://github.com/dapphub/dappsys)
 - [HEVMHelpers](https://github.com/brockelmore/HEVMHelpers)
+- [duppgrade](https://github.com/Rari-Capital/duppgrade)
 
 ## Projects Using Dapp
 - [Multi Collateral DAI](https://github.com/makerdao/dss)
@@ -36,6 +34,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [Dappsys V2](https://github.com/dapp-org/dappsys-v2)
 - [GEB](https://github.com/reflexer-labs/geb)
 - [Drai](https://github.com/mds1/drai)
+- [solmate](https://github.com/Rari-Capital/solmate)
 - [Rari Vaults](https://github.com/Rari-Capital/vaults)
 - [Fractional Contracts](https://github.com/fractional-company/contracts)
 - [MakerDAO Spells](https://github.com/makerdao/spells-mainnet)
@@ -46,6 +45,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [Radicle Tests](https://github.com/dapp-org/radicle-contracts-tests)
 - [Optimism Tests](https://github.com/dapp-org/optimism-tests)
 - [Mooniswap Tests](https://github.com/dapp-org/mooniswap-tests)
+- [dappsys](https://github.com/dapphub/dappsys)
 - [StringUtils](https://github.com/Arachnid/solidity-stringutils/blob/master/src/strings.sol)
 - [DS-Deed](https://github.com/brianmcmichael/ds-deed)
 - [DSS Charter](https://github.com/makerdao/dss-charter)
