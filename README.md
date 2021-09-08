@@ -1,4 +1,4 @@
-# DappTools Resources 
+# DappTools Resources
 
 This is non-exhaustive! Please feel free to submit a PR with additional resources.
 
@@ -31,6 +31,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 ## Projects Using Dapp
 - [Multi Collateral DAI](https://github.com/makerdao/dss)
 - [Single Collateral DAI](https://github.com/makerdao/sai)
+- [DS-Deed](https://github.com/brianmcmichael/ds-deed)
 - [Tinlake](https://github.com/centrifuge/tinlake)
 - [Lootloose](https://github.com/gakonst/lootloose)
 - [GEB](https://github.com/reflexer-labs/geb)
@@ -39,6 +40,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [Fractional Contracts](https://github.com/fractional-company/contracts)
 - [MakerDAO Spells](https://github.com/makerdao/spells-mainnet)
 - [Pickle Protocol](https://github.com/pickle-finance/protocol)
+- [Maple Finance](https://github.com/maple-labs/maple-core)
 - [Fuse Simulations](https://github.com/Rari-Capital/fuse-simulations)
 - [Dappsys V2](https://github.com/dapp-org/dappsys-v2)
 - [Tinlake Tests](https://github.com/dapp-org/tinlake-tests)
