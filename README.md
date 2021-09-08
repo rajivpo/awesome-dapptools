@@ -29,6 +29,7 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 ## Projects Using Dapp
 - [Multi Collateral DAI](https://github.com/makerdao/dss)
 - [Single Collateral DAI](https://github.com/makerdao/sai)
+- [ETH2 Deposit Contract](https://github.com/ethereum/consensus-specs/tree/dev/solidity_deposit_contract)
 - [Tinlake](https://github.com/centrifuge/tinlake)
 - [Lootloose](https://github.com/gakonst/lootloose)
 - [GEB](https://github.com/reflexer-labs/geb)
