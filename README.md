@@ -31,13 +31,11 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [Single Collateral DAI](https://github.com/makerdao/sai)
 - [Tinlake](https://github.com/centrifuge/tinlake)
 - [Lootloose](https://github.com/gakonst/lootloose)
-- [Dappsys V2](https://github.com/dapp-org/dappsys-v2)
 - [GEB](https://github.com/reflexer-labs/geb)
 - [Drai](https://github.com/mds1/drai)
 - [Solmate](https://github.com/Rari-Capital/solmate)
 - [Rari Vaults](https://github.com/Rari-Capital/vaults)
 - [Fractional Contracts](https://github.com/fractional-company/contracts)
-- [MakerDAO Spells](https://github.com/makerdao/spells-mainnet)
 - [Pickle Protocol](https://github.com/pickle-finance/protocol)
 - [Maple Finance](https://github.com/maple-labs/maple-core)
 - [Fuse Simulations](https://github.com/Rari-Capital/fuse-simulations)
@@ -45,8 +43,9 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [Radicle Tests](https://github.com/dapp-org/radicle-contracts-tests)
 - [Optimism Tests](https://github.com/dapp-org/optimism-tests)
 - [Mooniswap Tests](https://github.com/dapp-org/mooniswap-tests)
-- [Dappsys](https://github.com/dapphub/dappsys)
 - [StringUtils](https://github.com/Arachnid/solidity-stringutils)
+- [Dappsys V2](https://github.com/dapp-org/dappsys-v2)
+- [Dappsys](https://github.com/dapphub/dappsys)
 - [DS-Deed](https://github.com/brianmcmichael/ds-deed)
 - [DSS Charter](https://github.com/makerdao/dss-charter)
 - [DSS Vest](https://github.com/makerdao/dss-vest)
@@ -54,6 +53,7 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [DSS Exigency](https://github.com/makerdao/dss-exigency)
 - [DSS Exec-Lib](https://github.com/makerdao/dss-exec-lib)
 - [MCD Ilk Registry](https://github.com/makerdao/ilk-registry)
+- [MakerDAO Spells](https://github.com/makerdao/spells-mainnet)
 
 ## Projects Using Seth
 
