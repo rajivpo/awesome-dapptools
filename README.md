@@ -50,6 +50,7 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [DS-Deed](https://github.com/brianmcmichael/ds-deed)
 - [DSS PSM](https://github.com/makerdao/dss-psm)
 - [DSS Vest](https://github.com/makerdao/dss-vest)
+- [DSS Spells](https://github.com/makerdao/spells-mainnet)
 - [DSS Deploy](https://github.com/makerdao/dss-deploy)
 - [DSS Charter](https://github.com/makerdao/dss-charter)
 - [DSS Exigency](https://github.com/makerdao/dss-exigency)
@@ -58,8 +59,7 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [DSS Megapoker](https://github.com/makerdao/megapoker)
 - [DSS Proxy-Action](https://github.com/makerdao/dss-proxy-actions)
 - [DSS CDP-Manager](https://github.com/makerdao/dss-cdp-manager)
-- [MCD Spells](https://github.com/makerdao/spells-mainnet)
-- [MCD Ilk Registry](https://github.com/makerdao/ilk-registry)
+- [DSS Ilk Registry](https://github.com/makerdao/ilk-registry)
 
 ## Projects Using Seth
 
