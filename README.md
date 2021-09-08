@@ -58,8 +58,8 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [DSS Megapoker](https://github.com/makerdao/megapoker)
 - [DSS Proxy-Action](https://github.com/makerdao/dss-proxy-actions)
 - [DSS CDP-Manager](https://github.com/makerdao/dss-cdp-manager)
+- [MCD Spells](https://github.com/makerdao/spells-mainnet)
 - [MCD Ilk Registry](https://github.com/makerdao/ilk-registry)
-- [MakerDAO Spells](https://github.com/makerdao/spells-mainnet)
 
 ## Projects Using Seth
 
