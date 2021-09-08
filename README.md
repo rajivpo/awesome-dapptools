@@ -31,8 +31,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 ## Projects Using Dapp
 - [Multi Collateral DAI](https://github.com/makerdao/dss)
 - [Single Collateral DAI](https://github.com/makerdao/sai)
-- [DS-Token: Simple ERC20](https://github.com/dapphub/ds-token)
-- [DS-Deed: Simple ERC721](https://github.com/brianmcmichael/ds-deed)
+- [DS-Deed](https://github.com/brianmcmichael/ds-deed)
 - [Tinlake](https://github.com/centrifuge/tinlake)
 - [Lootloose](https://github.com/gakonst/lootloose)
 - [GEB](https://github.com/reflexer-labs/geb)
