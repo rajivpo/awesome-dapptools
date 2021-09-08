@@ -1,6 +1,6 @@
 # DappTools Resources
 
-This is non-exhaustive! Please feel free to submit a PR with additional resources.
+This is non-exhaustive! Please feel free to submit PRs with additional resources.
 
 ## Official Docs
 - [DappTools](https://github.com/dapphub/dapptools)
