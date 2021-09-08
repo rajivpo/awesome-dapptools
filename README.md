@@ -15,6 +15,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [Introduction to Seth](https://docs.makerdao.com/clis/seth)
 - [Symbolic execution with DSTest](https://fv.ethereum.org/2020/12/11/symbolic-execution-with-ds-test/)
 - [HEVM and Seth cheatsheet](https://kndrck.co/posts/hevm_seth_cheatsheet/)
+- [Use dapp.tools for Ethereum Contract Development](https://medium.com/coinmonks/use-dapp-tools-for-ethereum-contract-development-2775d8b2ba0)
 
 ## Talks
 - [Smart Contract Development with dapp.tools](https://www.youtube.com/watch?v=lPinWgaNceM)
@@ -59,5 +60,7 @@ This is non-exhaustive! Please feel free to submit a PR with additional resource
 - [MCD CLI](https://github.com/makerdao/mcd-cli)
 - [MCD Testchain](https://github.com/makerdao/testchain)
 
+
 ## Other
 - [Official Chatroom](https://dapphub.chat/)
+
