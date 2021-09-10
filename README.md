@@ -16,6 +16,7 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [Symbolic execution with DSTest](https://fv.ethereum.org/2020/12/11/symbolic-execution-with-ds-test/)
 - [HEVM and Seth cheatsheet](https://kndrck.co/posts/hevm_seth_cheatsheet/)
 - [Use dapp.tools for Ethereum Contract Development](https://medium.com/coinmonks/use-dapp-tools-for-ethereum-contract-development-2775d8b2ba0)
+- [seth helpers](https://gist.github.com/mds1/3f070676129a095dec372c2d02cedfdd)
 
 ## Talks
 - [Smart Contract Development with dapp.tools](https://www.youtube.com/watch?v=lPinWgaNceM)
