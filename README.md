@@ -41,6 +41,7 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [Pickle Protocol](https://github.com/pickle-finance/protocol)
 - [Maple Finance](https://github.com/maple-labs/maple-core)
 - [Fuse Simulations](https://github.com/Rari-Capital/fuse-simulations)
+- [Nova Invariants](https://github.com/rari-capital/nova-invariants)
 - [Tinlake Tests](https://github.com/dapp-org/tinlake-tests)
 - [Radicle Tests](https://github.com/dapp-org/radicle-contracts-tests)
 - [Optimism Tests](https://github.com/dapp-org/optimism-tests)
