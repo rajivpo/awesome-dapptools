@@ -38,6 +38,7 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [Solmate](https://github.com/Rari-Capital/solmate)
 - [Rari Vaults](https://github.com/Rari-Capital/vaults)
 - [Fractional Contracts](https://github.com/fractional-company/contracts)
+- [Risedle ETFs](https://github.com/risedle/etfs)
 - [Pickle Protocol](https://github.com/pickle-finance/protocol)
 - [Maple Finance](https://github.com/maple-labs/maple-core)
 - [Fuse Simulations](https://github.com/Rari-Capital/fuse-simulations)
