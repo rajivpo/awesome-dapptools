@@ -65,6 +65,7 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [DSS Proxy-Action](https://github.com/makerdao/dss-proxy-actions)
 - [DSS CDP-Manager](https://github.com/makerdao/dss-cdp-manager)
 - [DSS Ilk Registry](https://github.com/makerdao/ilk-registry)
+- [Cryptex Staking](https://github.com/cryptexfinance/governance-staking)
 - [Template Ethereum Contracts](https://github.com/wighawag/template-ethereum-contracts)
 
 ## Projects Using Seth
