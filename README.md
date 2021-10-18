@@ -26,6 +26,7 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [HEVMHelpers](https://github.com/brockelmore/HEVMHelpers)
 - [duppgrade](https://github.com/Rari-Capital/duppgrade)
 - [seth helpers](https://gist.github.com/mds1/3f070676129a095dec372c2d02cedfdd)
+- [Docker-Dapptools](https://github.com/OdysLam/ddapptools)
 
 ## Projects Using Dapp
 - [Multi Collateral DAI](https://github.com/makerdao/dss)
