@@ -33,6 +33,7 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [Multi Collateral DAI](https://github.com/makerdao/dss)
 - [Single Collateral DAI](https://github.com/makerdao/sai)
 - [ETH2 Deposit Contract](https://github.com/ethereum/consensus-specs/tree/dev/solidity_deposit_contract)
+- [Solidity Trigonometry](https://github.com/mds1/solidity-trigonometry)
 - [Tinlake](https://github.com/centrifuge/tinlake)
 - [Lootloose](https://github.com/gakonst/lootloose)
 - [GEB](https://github.com/reflexer-labs/geb)
