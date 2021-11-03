@@ -19,8 +19,8 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [Dapptools Playlist by What The Func?](https://youtube.com/playlist?list=PLUMwusiHZZhq2x0DTHGVoQ1iEyY4pBsyq)
 
 ## Talks
-- [Smart Contract Development with dapp.tools](https://www.youtube.com/watch?v=lPinWgaNceM)
 - [DappHub](https://www.youtube.com/watch?v=rKQCvUp5q1w)
+- [Smart Contract Development with dapp.tools](https://www.youtube.com/watch?v=lPinWgaNceM)
 - [Become a Dapptools Pilled Chad in 30 minutes or Your Money Back](https://www.youtube.com/watch?v=N9pJ9JieX10)
 
 ## Utilities
