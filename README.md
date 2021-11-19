@@ -24,7 +24,8 @@ This is non-exhaustive! Please feel free to submit PRs with additional resources
 - [Become a Dapptools Pilled Chad in 30 minutes or Your Money Back](https://www.youtube.com/watch?v=N9pJ9JieX10)
 
 ## Utilities
-- [DappTools Template](https://github.com/gakonst/dapptools-template)
+- [Gakonst's DappTools Template](https://github.com/gakonst/dapptools-template)
+- [t11s' DappTools Template](https://github.com/transmissions11/dapptools-template)
 - [HEVMHelpers](https://github.com/brockelmore/HEVMHelpers)
 - [duppgrade](https://github.com/Rari-Capital/duppgrade)
 - [seth helpers](https://gist.github.com/mds1/3f070676129a095dec372c2d02cedfdd)
